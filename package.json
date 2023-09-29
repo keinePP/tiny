@@ -3,7 +3,7 @@
     "version": "2.0.1",
     "description": "Removes all spaces from a string",
     "license": "MIT",
-    "repository": "keinePP/tiny",
+    "repository": "hiddeneon/tiny",
     "main": "index.js",
     "keywords": [
         "tiny",
