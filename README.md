@@ -2,10 +2,10 @@
 tiny npm module
 
 # install
-    $ npm install @bamblehorse/tiny
+    $ npm install @hiddeneon/tiny
 
 # usage
-    const tiny = require("@bamblehorse/tiny");
+    const tiny = require("@hiddeneon/tiny");
 
     tiny("So much space!");
     //=> "Somuchspace!"
